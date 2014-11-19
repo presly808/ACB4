@@ -1,0 +1,22 @@
+	1. Прочитать и выучить 
+		1.1. Хорстманн Java 2. Том 1. Основы. 
+			Глава 3. Основные конструкции языка Java 
+			(можете использовать другой ресурс для изучения синтаксиса и основных конструкции) 
+			Обязательно посмотреть ввод данных с консоли(класс Scanner)
+			
+			https://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html
+			https://docs.oracle.com/javase/tutorial/java/package/index.html
+	
+		
+	2. Литература
+		6.1. Шилдт Г. "Java. Полное руководство"  						http://padabum.com/d.php?id=17386
+		6.2. Кей Хорстманн, Гари Корнелл - Java 2. Том 1 				http://www.ex.ua/8600905
+		6.3. Кэти Сьерра, Берт Бейтс. "Head First Java / Изучаем Java"  http://rutracker.org/forum/viewtopic.php?t=4212262
+		6.4. Брюс Эккель. "Философия Java"                              http://www.ex.ua/4884921
+		
+	3. Видеоуроки 
+		https://www.youtube.com/watch?v=DKy4KzIn1qg&list=PLB0276A0A62BDEF06
+		https://www.youtube.com/watch?v=6pApP6TKxck&list=PLB0276A0A62BDEF06
+		https://www.youtube.com/watch?v=V9qzo32u0Z4&list=PLD964614607573AFD
+		https://www.youtube.com/watch?v=7jEqfuuXofA
+		https://www.youtube.com/watch?v=zz5_DD-EruA
