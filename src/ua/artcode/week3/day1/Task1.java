@@ -1,4 +1,4 @@
-package week3.day1;
+package ua.artcode.week3.day1;
 
 import java.io.Console;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package week3.day1;
+package ua.artcode.week3.day1;
 
 import java.util.Scanner;
 
@@ -28,6 +28,8 @@ public class Task2 {
 		for(int i = 0; i < mas.length; i++){
 			res = res + mas[i] + " ";
 		}
+		
+		
 		
 		System.out.println(res);
 		

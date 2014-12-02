@@ -1,4 +1,4 @@
-package week3.day1;
+package ua.artcode.week3.day1;
 
 public class TestLoops {
 	
