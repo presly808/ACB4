@@ -26,5 +26,37 @@ public class ArrayHelper {
 		}
 		return mas;
 	}
+
+    public static int minIndex(int[] mas){
+        int minI = 0;
+        for (int i = 0; i < mas.length; i++) {
+            if(mas[minI] > mas[i]){
+                minI = i;
+            }
+        }
+        return minI;
+    }
+
+    public static int maxIndex(int[] mas){
+        int maxI = 0;
+        for (int i = 0; i < mas.length; i++) {
+            if(mas[maxI] < mas[i]){
+                maxI = i;
+            }
+        }
+        return maxI;
+    }
+
+    public static void swap(int[] mas, int i, int j){
+        int temp = mas[i];
+        mas[i] = mas[j];
+        mas[j] = temp;
+    }
+
+    // 8 - 80
+    // 8 + 0..72 = 8 .. 80
+    public static int genRandomRange(int left, int right){
+        return left + (int)(Math.random() * (right - left));
+    }
 	
 }
